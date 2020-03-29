@@ -7,7 +7,7 @@ This gem basically includes TinyMCE 4 (thanks to gem [tinymce-rails](https://git
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'tinymce_aws_file_upload', '~> 0.1.0'
+gem 'tinymce_aws_file_upload', git: 'git@github.com:PHCruz-Software/tinymce_aws_file_upload.git'
 ```
 
 And then execute:
